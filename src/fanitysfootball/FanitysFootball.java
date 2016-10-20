@@ -10,6 +10,8 @@ package fanitysfootball;
  * @author mflaschberger
  */
 public class FanitysFootball {
+    private int numberOfTeams;
+    
 
     /**
      * @param args the command line arguments
